@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-batch-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pc
+Implementation-Vendor-Id: com.opencodez
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-batch-demo
+Created-By: Maven Integration for Eclipse
+
